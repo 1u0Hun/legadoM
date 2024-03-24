@@ -1,24 +1,48 @@
 [
   {
-    "customOrder": 2,
+    "customOrder": 10000,
     "enableJs": true,
     "enabled": true,
     "singleUrl": true,
     "sourceGroup": "legado",
     "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
     "sourceName": "使用说明",
-    "sourceUrl": "https://www.yuque.com/legado"
+    "sourceUrl": "https://www.yuque.com/u29131723/cyg9l5/ncmtt0km2n8tggfy?singleDoc# 《使用说明》"
   },
+
+  {
+    "customOrder": 2,
+    "enableJs": true,
+    "enabled": true,
+    "singleUrl": true,
+    "sourceGroup": "legado",
+    "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sourceName": "一键导入官方书源",
+    "sourceUrl": "yuedu://booksource/importonline?src=https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1709728721366/yck0305.json"
+  },
+
   {
     "customOrder": 3,
     "enableJs": true,
     "enabled": true,
     "singleUrl": true,
     "sourceGroup": "legado",
-    "sourceIcon": "http://mmbiz.qpic.cn/mmbiz_png/hpfMV8hEuL2eS6vnCxvTzoOiaCAibV6exBzJWq9xMic9xDg3YXAick87tsfafic0icRwkQ5ibV0bJ84JtSuxhPuEDVquA/0?wx_fmt=png",
-    "sourceName": "小说拾遗",
-    "sourceUrl": "snssdk1128://user/profile/562564899806367"
+    "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sourceName": "一键导入书源1",
+    "sourceUrl": "yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/namofree.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388d"
   },
+
+  {
+    "customOrder": 4,
+    "enableJs": true,
+    "enabled": true,
+    "singleUrl": true,
+    "sourceGroup": "legado",
+    "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sourceName": "一键导入书源2",
+    "sourceUrl": "yuedu://booksource/importonline?src=https%3A%2F%2Fbushixuanqi.oss-cn-chengdu.aliyuncs.com%2F%25E9%2580%259A%25E7%2594%25A8%25E4%25B9%25A6%25E6%25BA%2590%252B%25E6%2590%259C%25E7%25B4%25A2%25E5%25BC%2595%25E6%2593%258E%25E4%25B9%25A6%25E6%25BA%2590.json"
+  },
+
   {
     "customOrder": 5,
     "enableJs": true,
@@ -26,7 +50,10 @@
     "singleUrl": true,
     "sourceGroup": "legado",
     "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "sourceName": "烏雲净化",
-    "sourceUrl": "https://www.lanzoux.com/b0bw8jwoh"
+    "sourceName": "一键导入漫画源",
+    "sourceUrl": "yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/mh2.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388"
   }
+
+
+
 ]

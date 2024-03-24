@@ -140,7 +140,7 @@ class MainActivity : VMBaseActivity<ActivityMainBinding, MainViewModel>(),
             //版本更新
             upVersion()
             //设置本地密码
-            setLocalPassword()
+//            setLocalPassword()
             notifyAppCrash()
             //备份同步
             backupSync()

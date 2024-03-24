@@ -81,7 +81,7 @@ by appCtx.getSharedPreferences("local", Context.MODE_PRIVATE) {
         get() {
             val value = getBoolean("firstOpen", true)
             if (value) {
-                edit { putBoolean("firstOpen", false) }
+                edit { putBoolean("firstOpen", true) } //测试所用，短暂一直开启first open
             }
             return value
         }

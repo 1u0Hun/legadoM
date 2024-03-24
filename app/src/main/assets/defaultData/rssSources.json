@@ -20,16 +20,6 @@
     "sourceUrl": "snssdk1128://user/profile/562564899806367"
   },
   {
-    "customOrder": 4,
-    "enableJs": true,
-    "enabled": true,
-    "singleUrl": true,
-    "sourceGroup": "legado",
-    "sourceIcon": "https://cdn.jsdelivr.net/gh/mgz0227/meowcloud/icon.png",
-    "sourceName": "Meow云",
-    "sourceUrl": "https://pan.miaogongzi.net"
-  },
-  {
     "customOrder": 5,
     "enableJs": true,
     "enabled": true,

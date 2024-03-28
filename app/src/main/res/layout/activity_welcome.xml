@@ -43,13 +43,13 @@
             android:id="@+id/tv_sub_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="60dp"
             android:layout_marginLeft="6dp"
+            android:layout_marginTop="60dp"
             android:ems="1"
-            android:text="享受美好时光"
+            android:text="享受美好人生"
             android:textSize="16sp"
-            app:layout_constraintTop_toTopOf="@+id/tv_title"
             app:layout_constraintLeft_toRightOf="@id/tv_title"
+            app:layout_constraintTop_toTopOf="@+id/tv_title"
             tools:ignore="HardcodedText,RtlHardcoded" />
 
 

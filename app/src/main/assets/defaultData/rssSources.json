@@ -32,16 +32,6 @@
     "sourceUrl": "yuedu://booksource/importonline?src=https://cdn05042023.gitlink.org.cn/api/v1/repos/miaogongzi/legado/raw/namofree.json?ref=master&access_token=81f9f06b0b68e77faf58d614e1c27afa46566388d"
   },
 
-  {
-    "customOrder": 4,
-    "enableJs": true,
-    "enabled": true,
-    "singleUrl": true,
-    "sourceGroup": "legado",
-    "sourceIcon": "https://cdn.jsdelivr.net/gh/gedoor/legado@master/app/src/main/res/mipmap-hdpi/ic_launcher.png",
-    "sourceName": "一键导入书源2",
-    "sourceUrl": "yuedu://booksource/importonline?src=https%3A%2F%2Fbushixuanqi.oss-cn-chengdu.aliyuncs.com%2F%25E9%2580%259A%25E7%2594%25A8%25E4%25B9%25A6%25E6%25BA%2590%252B%25E6%2590%259C%25E7%25B4%25A2%25E5%25BC%2595%25E6%2593%258E%25E4%25B9%25A6%25E6%25BA%2590.json"
-  },
 
   {
     "customOrder": 5,

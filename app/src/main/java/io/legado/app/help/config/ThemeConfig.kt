@@ -162,7 +162,7 @@ object ThemeConfig {
 
     fun saveDayTheme(context: Context, name: String) {
         val primary =
-            context.getPrefInt(PreferKey.cPrimary, context.getCompatColor(R.color.md_brown_500))
+            context.getPrefInt(PreferKey.cPrimary, context.getCompatColor(R.color.md_purple_100))
         val accent =
             context.getPrefInt(PreferKey.cAccent, context.getCompatColor(R.color.md_red_600))
         val background =
@@ -243,7 +243,7 @@ object ThemeConfig {
 
             else -> {
                 val primary =
-                    getPrefInt(PreferKey.cPrimary, getCompatColor(R.color.md_brown_500))
+                    getPrefInt(PreferKey.cPrimary, getCompatColor(R.color.md_purple_100))
                 val accent =
                     getPrefInt(PreferKey.cAccent, getCompatColor(R.color.md_red_600))
                 var background =

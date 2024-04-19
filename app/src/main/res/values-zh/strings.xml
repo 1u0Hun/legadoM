@@ -1,6 +1,6 @@
 <resources>
     <!--App-->
-    <string name="app_name">阅读</string>
+    <string name="app_name">X阅读</string>
     <string name="receiving_shared_label">阅读·搜索</string>
     <string name="tip_perm_request_storage">阅读需要访问存储卡权限，请前往“设置”—“应用权限”，打开所需权限</string>
 
@@ -693,11 +693,11 @@
     <string name="contact">联系我们</string>
     <string name="license">开源许可</string>
     <string name="other">其它</string>
-    <string name="official_account">开源阅读222</string>
+    <string name="official_account">暴暴的皮卡丘</string>
     <string name="follow_official_account">关注公众号</string>
     <string name="wechat">微信</string>
     <string name="thanks">您的支持是我更新的动力</string>
-    <string name="about_official_account">公众号【开源阅读111】</string>
+    <string name="about_official_account">公众号【暴暴的皮卡丘】</string>
     <string name="source_auto_changing">正在自动换源</string>
     <string name="click_to_apply">点击加入</string>
     <string name="middle">中</string>
@@ -737,7 +737,7 @@
     <string name="starting_download">正在启动下载</string>
     <string name="already_in_download">该书已在下载列表</string>
     <string name="click_to_open">点击打开</string>
-    <string name="follow_public_account_summary">关注xx</string>
+    <string name="follow_public_account_summary">关注暴暴皮卡丘</string>
     <string name="weChat_appreciation_code">微信赞赏码</string>
     <string name="alipay">支付宝</string>
     <string name="alipay_red_envelope_search_code">支付宝红包搜索码</string>

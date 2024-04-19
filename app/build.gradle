@@ -32,20 +32,31 @@ android {
         }
     }
 
+//    signingConfigs {
+//        if (project.hasProperty("RELEASE_STORE_FILE")) {
+//            myConfig {
+//                storeFile file(RELEASE_STORE_FILE)
+//                storePassword RELEASE_STORE_PASSWORD
+//                keyAlias RELEASE_KEY_ALIAS
+//                keyPassword RELEASE_KEY_PASSWORD
+//                v1SigningEnabled true
+//                v2SigningEnabled true
+//                enableV3Signing = true
+//                enableV4Signing = true
+//            }
+//        }
+//    }
+
     signingConfigs {
-        if (project.hasProperty("RELEASE_STORE_FILE")) {
-            myConfig {
-                storeFile file(RELEASE_STORE_FILE)
-                storePassword RELEASE_STORE_PASSWORD
-                keyAlias RELEASE_KEY_ALIAS
-                keyPassword RELEASE_KEY_PASSWORD
-                v1SigningEnabled true
-                v2SigningEnabled true
-                enableV3Signing = true
-                enableV4Signing = true
-            }
+        myConfig {
+            storeFile file("../read-release.keystore")
+            storePassword "xyread"
+            keyAlias "my-alias"
+            keyPassword "xyread"
         }
     }
+
+
     defaultConfig {
         applicationId "io.legado.app"
         minSdk 21
